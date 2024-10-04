@@ -1,0 +1,26 @@
+{
+    "1234": {
+        "saude": {
+            "valor_anual": "75.00",
+            "data_fim": "01/01/2024"
+        },
+        "saudavel": {
+            "valor_anual": "72.00",
+            "data_fim": "01/09/2024"
+        },
+        "medico-online": {
+            "valor_anual": "95.00",
+            "data_fim": "31/12/2024"
+        }
+    },
+    "7342": {
+        "auto": {
+            "valor_anual": "68.00",
+            "data_fim": "15/01/2024"
+        },
+        "desporto": {
+            "valor_anual": "90.00",
+            "data_fim": "01/09/2024"
+        }
+    }
+}

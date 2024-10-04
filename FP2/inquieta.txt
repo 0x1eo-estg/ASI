@@ -1,0 +1,6 @@
+#num_cliente;categorialivro;vale;data_inicio;valor_anual;data_fim
+1234;saude;premium;01/05/2023;75.00;01/01/2024
+1234;saudavel;premium;15/02/2023;72.00;01/09/2024
+1234;medico-online;premium;10/08/2023;95.00;31/12/2024
+7342;auto;premium;01/05/2023;68.00;15/01/2024
+7342;desporto;regular;15/02/2023;90.00;01/09/2024
