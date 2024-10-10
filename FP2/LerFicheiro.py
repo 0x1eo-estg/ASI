@@ -1,6 +1,6 @@
 def ler():
     data = {}
-    with open('inquieta.txt', 'r') as file:
+    with open('list.txt', 'r') as file:
         for i, line in enumerate(file):
             if i == 0:
                 continue
