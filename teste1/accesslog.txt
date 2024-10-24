@@ -1,0 +1,7 @@
+#host;date;request;status;bytes
+127.0.0.1;2024/10/22;GET /asi_pb.gif HTTP/1.1; 200; 4638
+192.168.1.1;2024/10/22;POST /wp-login.php HTTP/1.1; 200; 2326
+192.0.2.1;2024/10/22; GET /index.html HTTP/1.1; 200; -
+192.0.2.1;2024/10/23;GET /asi2_pb.gif HTTP/1.0; 404; 86
+192.0.2.1; 2024/10/23;PUT /index.html HTTP/1.1; 200; 4616
+127.0.0.1;2024/10/24;GET /asi_pb.gif HTTP/1.0; 200; 4638
